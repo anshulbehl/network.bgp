@@ -2,5 +2,4 @@
 ansibleLint:
   configFile: ".ansible-lint.yml"
 schedule:
-  interval: "hourly"
-open-pull-requests-limit: 3
+  interval: "weekly"
