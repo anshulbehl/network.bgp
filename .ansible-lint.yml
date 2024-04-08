@@ -10,3 +10,6 @@ exclude_paths:
   - .env/
   - .tox/
   - tests/
+exclude_files:
+  - .ansible-lint.yaml
+  - galaxy.yml
